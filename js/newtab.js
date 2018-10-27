@@ -85,6 +85,12 @@ function getUserLoc() {
 function getSunRise(position) {
     userLocation = position.coords.latitude + "," + position.coords.longitude;
     console.log(userLocation);
+
+    var sunApiString = "https://api.sunrise-sunset.org/json?lat=" + position.coords.latitude + "&lng=" + position.coords.longitude + "&date=today"
+
+    xhttp.open("GET", "sunApiString", false);
+    xhttp.send();
+    console.log(xhttp.responseText);
 }
 
 // Function to generate varied greeting message
