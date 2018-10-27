@@ -11,7 +11,9 @@ function getUserLoc() {
 }
 
 function getSunRise(position) {
-    console.log(position);
+    userLocation = position.coords.latitude + "," + position.coords.longitude;
+    console.log(userLocation);
+
 }
 
 //getSunRise(getUserLoc());
