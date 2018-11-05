@@ -16,16 +16,16 @@
 
 ## Planned Features List (to be updated)
 
-**Personalized Greeting**
- * Have initial greeting for user vary by gender (if identifying) and time
- * Finalize font pairings (likely sans-serif) between greeting header text and subsequent body text
- * Have small clipart that reflects weather for user's current location
-**Search Bar**
- * Enable quick dropdown menu next to search bar for users to switch the intended search engine (Google, Bing, Yahoo, etc.)
- * Have anonymity button next to search bar to open user search in new incognito window (depends on browser capabilities)
-**Pinned Tabs**
- * Create different designs for presentation of tabs
- * Allow users to turn tabs into shortcuts for launching desktop applications
-**Background Images**
- * Setup album of copyright-free landscape images to randomly select from
- * Have dynamic aerial view landscape videos for the background
+1. **Personalized Greeting**
+    - Have initial greeting for user vary by gender (if identifying) and time
+    - Finalize font pairings (likely sans-serif) between greeting header text and subsequent body text
+    - Have small clipart that reflects weather for user's current location
+2. **Search Bar**
+    - Enable quick dropdown menu next to search bar for users to switch the intended search engine (Google, Bing, Yahoo, etc.)
+    - Have anonymity button next to search bar to open user search in new incognito window (depends on browser capabilities)
+3. **Pinned Tabs**
+    - Create different designs for presentation of tabs
+    - Allow users to turn tabs into shortcuts for launching desktop applications
+4. **Background Images**
+    - Setup album of copyright-free landscape images to randomly select from
+    - Have dynamic aerial view landscape videos for the background
