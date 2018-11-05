@@ -15,16 +15,17 @@
 **Phase 4** of this project is having user data saved in their local cookies and having NTab's page be an actual website hosted on Github Pages. Making it the new tab page is as easy as pasting NTab's public URL into your browser settings, instead of having to download any extensions.
 
 ## Planned Features List (to be updated)
-1. Personalized Greeting
-  1a. Have initial greeting for user vary by gender (if identifying) and time
-  1b. Finalize font pairings (likely sans-serif) between greeting header text and subsequent body text
-  1c. Have small clipart that reflects weather for user's current location
-2. Search Bar
-  2a. Enable quick dropdown menu next to search bar for users to switch the intended search engine (Google, Bing, Yahoo, etc.)
-  2b. Have anonymity button next to search bar to open user search in new incognito window (depends on browser capabilities)
-3. Pinned Tabs
-  3a. Create different designs for presentation of tabs
-  3b. Allow users to turn tabs into shortcuts for launching desktop applications
-4. Background Images
-  4a. Setup album of copyright-free landscape images to randomly select from
-  4b. Have dynamic aerial view landscape videos for the background
+
+**Personalized Greeting**
+ * Have initial greeting for user vary by gender (if identifying) and time
+ * Finalize font pairings (likely sans-serif) between greeting header text and subsequent body text
+ * Have small clipart that reflects weather for user's current location
+**Search Bar**
+ * Enable quick dropdown menu next to search bar for users to switch the intended search engine (Google, Bing, Yahoo, etc.)
+ * Have anonymity button next to search bar to open user search in new incognito window (depends on browser capabilities)
+**Pinned Tabs**
+ * Create different designs for presentation of tabs
+ * Allow users to turn tabs into shortcuts for launching desktop applications
+**Background Images**
+ * Setup album of copyright-free landscape images to randomly select from
+ * Have dynamic aerial view landscape videos for the background
